@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**23CS145/23CS145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Development Enthusiast** currently in my 2nd year of studies.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tech I Know:
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend & Stack:** MERN Stack (MongoDB, Express, React, Node.js)
+- **Programming Languages:** Basic knowledge of Java, C and C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Projects:
+I’ve built several projects using the MERN stack and enjoy learning by building real-world applications.
+
+### 🚀 Goals:
+- Improve my full stack skills
+- Contribute to open source
+- Explore backend frameworks and deployment tools
+
+### 📫 Let's Connect:
+Feel free to reach out or check out my repositories!
