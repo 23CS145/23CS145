@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Saranyadevi V**, a passionate **Full Stack Development Enthusiast** and Computer Science student, currently in my 2nd year (2023–2027) at **Sri Eshwar College of Engineering**.
+I'm **Saranyadevi V**, a passionate **Full Stack Development Enthusiast** and Computer Science student, currently in my 3rd year (2023–2027) at **Sri Eshwar College of Engineering**.
 
 ### 🛠️ Skills & Tech I Know:
 - **Frontend:** HTML, CSS, JavaScript, React, Vite
